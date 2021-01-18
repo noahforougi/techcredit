@@ -1,0 +1,25 @@
+{
+    "id": "47B21200",
+    "path": "~/Desktop/techcredit/scripts/01_cleandata.R",
+    "project_path": "scripts/01_cleandata.R",
+    "type": "r_source",
+    "hash": "304918084",
+    "contents": "",
+    "dirty": false,
+    "created": 1605102028940.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "8,42",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1610820958,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1610820958692,
+    "read_only": false,
+    "read_only_alternatives": []
+}
